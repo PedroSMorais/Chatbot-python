@@ -14,12 +14,16 @@ Um chatbot simples desenvolvido em Python usando a biblioteca NLTK (Natural Lang
 ### Pré-requisitos
 
 1. **Python 3.x**: Certifique-se de ter o Python instalado. Você pode verificar a instalação com o comando:
-           python --version
+           
+              python --version
 2. NLTK: Instale a biblioteca NLTK usando o pip:  
-           pip install nltk
+           
+              pip install nltk
 3. Baixar Dados do NLTK: O NLTK requer alguns dados adicionais. Execute o seguinte código Python para baixá-los:
+           
            import nltk
            nltk.download('punkt')
+
 Executando o Chatbot
 a) Clone este repositório: 
 
